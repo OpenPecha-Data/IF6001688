@@ -1,0 +1,23 @@
+id: IF6001688
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T19:02:43.419635'
+last_modified: '2022-05-27T19:02:43.419648'
+parser: null
+source_metadata:
+  title: 'MSV 6,04: Pañcaka'
+  language: bo
+  base:
+    f4033:
+      title: Pañcaka
+      base_file: f4033.txt
+      order: 1
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null

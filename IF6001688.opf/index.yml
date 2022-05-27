@@ -1,0 +1,9 @@
+id: eea7c66eef7446d1a9834b87c2260d5a
+annotation_type: index
+revision: '00001'
+annotations:
+  42db7f521519436485018ec0bc2bc32d:
+    base: f4033.txt
+    span:
+      start: 0
+      end: 41418
